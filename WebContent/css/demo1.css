@@ -1,0 +1,131 @@
+#fatherdiv{
+				width: 900px;
+				margin: auto;
+			}
+			#logophoto{
+				float: left;
+			}
+			#login{
+				float: right;
+				margin-top: 30px;
+			}
+			#login a{
+				text-decoration: none;
+			}
+			#login a:link{
+				color: black;
+			}
+			#login a:visited{
+				color: black;
+			}
+			#login a:hover{
+				color: #999;
+			}
+			#login a:active{
+				color: black;
+			}
+			.clear{
+				clear: both;
+			}
+			ul li{
+				display: inline;
+			}
+			#navigation{
+				background-color: #999;
+				height: 45px;
+				padding-top: 5px;
+			}
+			#navigation a:link{
+				color: white;
+			}
+			#navigation a:visited{
+				color:white;
+			}
+			#navigation a:hover{
+				color: black;
+			}
+			#navigation a:active{
+				color: aliceblue;
+			}
+			#navigation a{
+				text-decoration: none;
+			}
+			#jiadian1{
+				float: left;
+				width: 25;
+			}
+			#jiadian2{
+				float: left;
+				width: 75;
+			}
+			#p1{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p2{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p3{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p4{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p5{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p6{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#p7{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			
+			#p8{
+				float: left;
+				width: 25;
+				padding-left: 35px;
+				text-align: center;
+			}
+			#linked{
+				text-align: center;
+				margin-left: 20px;
+			}
+			#linked a:link{
+				color: black;
+			}
+			#linked a:visited{
+				color:black;
+			}
+			#linked a:hover{
+				color: #999;
+			}
+			#linked a:active{
+				color: aliceblue;
+			}
+			#linked a{
+				text-decoration: none;
+			}
+			#banquan{
+				text-align: center;
+			}
